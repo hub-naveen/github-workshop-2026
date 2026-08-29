@@ -1,0 +1,16 @@
+{
+  "name": "github-workshop",
+  "version": "1.0.0",
+  "description": "A repository for a GitHub collaboration workshop.",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Open index.html in your browser to get started!\" && exit 0"
+  },
+  "keywords": [
+    "github",
+    "workshop",
+    "git"
+  ],
+  "author": "",
+  "license": "MIT"
+}
